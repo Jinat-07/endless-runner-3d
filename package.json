@@ -1,0 +1,7 @@
+{
+  "name": "endless-runner-3d",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": { "three": "^0.160.0" },
+  "devDependencies": { "vite": "^5.0.0" }
+}
